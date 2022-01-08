@@ -33,7 +33,7 @@
 
 	<jsp:include page="header.jsp"></jsp:include>
 
-	<!-- 로그인(Login) -->
+	<!-- 로그인(Login) --> //추가
 
 	<section class="section confirmation">
 		<form name="loginFrm" method="post" action="login.do">
