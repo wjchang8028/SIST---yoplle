@@ -187,7 +187,7 @@
    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
    crossorigin="anonymous"></script>
 
-<script type="text/javascript">
+<script type="text/javascript"> <!--로그인-->
    function recipe() {
       if (confirm("로그인이 필요한 페이지입니다. 로그인 하시겠습니까?") == true) {
       } else {
